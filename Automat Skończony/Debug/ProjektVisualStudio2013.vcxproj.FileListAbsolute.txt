@@ -1,0 +1,4 @@
+C:\Users\tkowa\OneDrive\Pulpit\courses_graphics-master\Debug\ProjektVisualStudio2013.exe
+C:\Users\tkowa\OneDrive\Pulpit\courses_graphics-master\Debug\ProjektVisualStudio2013.pdb
+C:\Users\tkowa\OneDrive\Pulpit\Automat Skończony\Debug\ProjektVisualStudio2013.exe
+C:\Users\tkowa\OneDrive\Pulpit\Automat Skończony\Debug\ProjektVisualStudio2013.pdb

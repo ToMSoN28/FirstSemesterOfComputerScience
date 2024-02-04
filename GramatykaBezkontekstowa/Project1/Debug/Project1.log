@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\tkowa\OneDrive\Pulpit\GramatykaBezkontekstowa\Project1\main.c(12,18): warning C4244: "funkcja": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  Project1.vcxproj -> C:\Users\tkowa\OneDrive\Pulpit\GramatykaBezkontekstowa\Debug\Project1.exe
